@@ -1,0 +1,2 @@
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.WebClient\obj\Debug\netcoreapp2.0\Checklist.WebClient.csprojResolveAssemblyReference.cache
+C:\Checklist0508\Checklist\Checklist.WebClient\obj\Debug\netcoreapp2.0\Checklist.WebClient.csprojResolveAssemblyReference.cache

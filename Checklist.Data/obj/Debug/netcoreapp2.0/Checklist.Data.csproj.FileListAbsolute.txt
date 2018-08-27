@@ -1,0 +1,18 @@
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Data\bin\Debug\netcoreapp2.0\Checklist.Data.deps.json
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Data\bin\Debug\netcoreapp2.0\Checklist.Data.dll
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Data\bin\Debug\netcoreapp2.0\Checklist.Data.pdb
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.csprojResolveAssemblyReference.cache
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.csproj.CoreCompileInputs.cache
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.AssemblyInfoInputs.cache
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.AssemblyInfo.cs
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.dll
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.pdb
+C:\Checklist0508\Checklist\Checklist.Data\bin\Debug\netcoreapp2.0\Checklist.Data.deps.json
+C:\Checklist0508\Checklist\Checklist.Data\bin\Debug\netcoreapp2.0\Checklist.Data.dll
+C:\Checklist0508\Checklist\Checklist.Data\bin\Debug\netcoreapp2.0\Checklist.Data.pdb
+C:\Checklist0508\Checklist\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.csprojResolveAssemblyReference.cache
+C:\Checklist0508\Checklist\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.csproj.CoreCompileInputs.cache
+C:\Checklist0508\Checklist\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.AssemblyInfoInputs.cache
+C:\Checklist0508\Checklist\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.AssemblyInfo.cs
+C:\Checklist0508\Checklist\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.dll
+C:\Checklist0508\Checklist\Checklist.Data\obj\Debug\netcoreapp2.0\Checklist.Data.pdb

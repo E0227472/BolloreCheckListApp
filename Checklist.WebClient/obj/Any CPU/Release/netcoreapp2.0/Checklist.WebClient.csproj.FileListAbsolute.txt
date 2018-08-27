@@ -1,0 +1,10 @@
+D:\01 Projects\Checklist\Checklist.WebClient\bin\Any CPU\Release\netcoreapp2.0\Checklist.WebClient.deps.json
+D:\01 Projects\Checklist\Checklist.WebClient\bin\Any CPU\Release\netcoreapp2.0\Checklist.WebClient.runtimeconfig.json
+D:\01 Projects\Checklist\Checklist.WebClient\bin\Any CPU\Release\netcoreapp2.0\Checklist.WebClient.runtimeconfig.dev.json
+D:\01 Projects\Checklist\Checklist.WebClient\bin\Any CPU\Release\netcoreapp2.0\Checklist.WebClient.dll
+D:\01 Projects\Checklist\Checklist.WebClient\bin\Any CPU\Release\netcoreapp2.0\Checklist.WebClient.pdb
+D:\01 Projects\Checklist\Checklist.WebClient\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebClient.csproj.CoreCompileInputs.cache
+D:\01 Projects\Checklist\Checklist.WebClient\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebClient.AssemblyInfoInputs.cache
+D:\01 Projects\Checklist\Checklist.WebClient\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebClient.AssemblyInfo.cs
+D:\01 Projects\Checklist\Checklist.WebClient\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebClient.dll
+D:\01 Projects\Checklist\Checklist.WebClient\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebClient.pdb

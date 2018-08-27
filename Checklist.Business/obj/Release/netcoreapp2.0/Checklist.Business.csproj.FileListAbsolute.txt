@@ -1,0 +1,11 @@
+D:\01 Projects\Checklist\Checklist.Business\bin\Release\netcoreapp2.0\Checklist.Business.deps.json
+D:\01 Projects\Checklist\Checklist.Business\bin\Release\netcoreapp2.0\Checklist.Business.dll
+D:\01 Projects\Checklist\Checklist.Business\bin\Release\netcoreapp2.0\Checklist.Business.pdb
+D:\01 Projects\Checklist\Checklist.Business\bin\Release\netcoreapp2.0\Checklist.Data.dll
+D:\01 Projects\Checklist\Checklist.Business\bin\Release\netcoreapp2.0\Checklist.Data.pdb
+D:\01 Projects\Checklist\Checklist.Business\obj\Release\netcoreapp2.0\Checklist.Business.csprojResolveAssemblyReference.cache
+D:\01 Projects\Checklist\Checklist.Business\obj\Release\netcoreapp2.0\Checklist.Business.csproj.CoreCompileInputs.cache
+D:\01 Projects\Checklist\Checklist.Business\obj\Release\netcoreapp2.0\Checklist.Business.AssemblyInfoInputs.cache
+D:\01 Projects\Checklist\Checklist.Business\obj\Release\netcoreapp2.0\Checklist.Business.AssemblyInfo.cs
+D:\01 Projects\Checklist\Checklist.Business\obj\Release\netcoreapp2.0\Checklist.Business.dll
+D:\01 Projects\Checklist\Checklist.Business\obj\Release\netcoreapp2.0\Checklist.Business.pdb

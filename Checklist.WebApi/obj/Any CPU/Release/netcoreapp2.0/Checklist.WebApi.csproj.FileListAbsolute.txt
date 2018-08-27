@@ -1,0 +1,15 @@
+D:\01 Projects\Checklist\Checklist.WebApi\bin\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.deps.json
+D:\01 Projects\Checklist\Checklist.WebApi\bin\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.runtimeconfig.json
+D:\01 Projects\Checklist\Checklist.WebApi\bin\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.runtimeconfig.dev.json
+D:\01 Projects\Checklist\Checklist.WebApi\bin\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.dll
+D:\01 Projects\Checklist\Checklist.WebApi\bin\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.pdb
+D:\01 Projects\Checklist\Checklist.WebApi\bin\Any CPU\Release\netcoreapp2.0\Checklist.Business.dll
+D:\01 Projects\Checklist\Checklist.WebApi\bin\Any CPU\Release\netcoreapp2.0\Checklist.Data.dll
+D:\01 Projects\Checklist\Checklist.WebApi\bin\Any CPU\Release\netcoreapp2.0\Checklist.Business.pdb
+D:\01 Projects\Checklist\Checklist.WebApi\bin\Any CPU\Release\netcoreapp2.0\Checklist.Data.pdb
+D:\01 Projects\Checklist\Checklist.WebApi\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.csproj.CoreCompileInputs.cache
+D:\01 Projects\Checklist\Checklist.WebApi\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.AssemblyInfoInputs.cache
+D:\01 Projects\Checklist\Checklist.WebApi\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.AssemblyInfo.cs
+D:\01 Projects\Checklist\Checklist.WebApi\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.dll
+D:\01 Projects\Checklist\Checklist.WebApi\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.pdb
+D:\01 Projects\Checklist\Checklist.WebApi\obj\Any CPU\Release\netcoreapp2.0\Checklist.WebApi.csprojResolveAssemblyReference.cache

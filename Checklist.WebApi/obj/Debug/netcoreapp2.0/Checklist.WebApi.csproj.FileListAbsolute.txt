@@ -1,0 +1,20 @@
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.csprojResolveAssemblyReference.cache
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.csproj.CoreCompileInputs.cache
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.AssemblyInfoInputs.cache
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.AssemblyInfo.cs
+C:\Checklist0508\Checklist\Checklist.WebApi\bin\Debug\netcoreapp2.0\Checklist.WebApi.deps.json
+C:\Checklist0508\Checklist\Checklist.WebApi\bin\Debug\netcoreapp2.0\Checklist.WebApi.runtimeconfig.json
+C:\Checklist0508\Checklist\Checklist.WebApi\bin\Debug\netcoreapp2.0\Checklist.WebApi.runtimeconfig.dev.json
+C:\Checklist0508\Checklist\Checklist.WebApi\bin\Debug\netcoreapp2.0\Checklist.WebApi.dll
+C:\Checklist0508\Checklist\Checklist.WebApi\bin\Debug\netcoreapp2.0\Checklist.WebApi.pdb
+C:\Checklist0508\Checklist\Checklist.WebApi\bin\Debug\netcoreapp2.0\Checklist.Business.dll
+C:\Checklist0508\Checklist\Checklist.WebApi\bin\Debug\netcoreapp2.0\Checklist.Data.dll
+C:\Checklist0508\Checklist\Checklist.WebApi\bin\Debug\netcoreapp2.0\Checklist.Business.pdb
+C:\Checklist0508\Checklist\Checklist.WebApi\bin\Debug\netcoreapp2.0\Checklist.Data.pdb
+C:\Checklist0508\Checklist\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.csprojResolveAssemblyReference.cache
+C:\Checklist0508\Checklist\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.csproj.CoreCompileInputs.cache
+C:\Checklist0508\Checklist\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.AssemblyInfoInputs.cache
+C:\Checklist0508\Checklist\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.AssemblyInfo.cs
+C:\Checklist0508\Checklist\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.csproj.CopyComplete
+C:\Checklist0508\Checklist\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.dll
+C:\Checklist0508\Checklist\Checklist.WebApi\obj\Debug\netcoreapp2.0\Checklist.WebApi.pdb

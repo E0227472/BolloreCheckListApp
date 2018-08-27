@@ -1,0 +1,16 @@
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.csprojResolveAssemblyReference.cache
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.csproj.CoreCompileInputs.cache
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.AssemblyInfoInputs.cache
+D:\01 Projects\Checklist\Checklist.WebApi\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.AssemblyInfo.cs
+C:\Checklist0508\Checklist\Checklist.Business\bin\Debug\netcoreapp2.0\Checklist.Business.deps.json
+C:\Checklist0508\Checklist\Checklist.Business\bin\Debug\netcoreapp2.0\Checklist.Business.dll
+C:\Checklist0508\Checklist\Checklist.Business\bin\Debug\netcoreapp2.0\Checklist.Business.pdb
+C:\Checklist0508\Checklist\Checklist.Business\bin\Debug\netcoreapp2.0\Checklist.Data.dll
+C:\Checklist0508\Checklist\Checklist.Business\bin\Debug\netcoreapp2.0\Checklist.Data.pdb
+C:\Checklist0508\Checklist\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.csprojResolveAssemblyReference.cache
+C:\Checklist0508\Checklist\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.csproj.CoreCompileInputs.cache
+C:\Checklist0508\Checklist\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.AssemblyInfoInputs.cache
+C:\Checklist0508\Checklist\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.AssemblyInfo.cs
+C:\Checklist0508\Checklist\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.csproj.CopyComplete
+C:\Checklist0508\Checklist\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.dll
+C:\Checklist0508\Checklist\Checklist.Business\obj\Debug\netcoreapp2.0\Checklist.Business.pdb

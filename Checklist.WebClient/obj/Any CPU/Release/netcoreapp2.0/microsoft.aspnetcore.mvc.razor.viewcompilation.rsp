@@ -1,0 +1,5 @@
+D:\01 Projects\Checklist\Checklist.WebClient
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=Checklist.WebClient
+--content-root=D:\01 Projects\Checklist\Checklist.WebClient
+--file=
